@@ -67,3 +67,9 @@ main {
     border: 1px solid red;
 }
 /* /not done = cross character */
+
+/* down-arrow */
+.down-arrow {
+    font-size: 25px;
+}
+/* /down-arrow */

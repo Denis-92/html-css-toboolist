@@ -60,3 +60,10 @@ main {
     font-size: 8px;
 }
 /* /done = check mark rule */
+
+/* not done = cross character */
+.not {
+    color: red;
+    border: 1px solid red;
+}
+/* /not done = cross character */

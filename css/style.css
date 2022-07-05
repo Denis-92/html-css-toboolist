@@ -9,15 +9,21 @@
 /* body rule for page size */
 body {
     margin: 2% 10%;
-    background-color: black;
+    background-color: #0e0e0e;
 }
 /* /body rule for page size */
 
 /* page wrap */
 #page-wrap {
-    background-color: white;
+    background-color: #f6f8f9;
 }
 /* /page wrap */
+
+/* top-header */
+#top-header {
+    background-color: #ffffff;
+}
+/* /top-header */
 
 h1 {
     display: inline;

@@ -5,3 +5,7 @@
     box-sizing: border-box;
 }
 /* /CSS reset */
+
+h1 {
+    display: inline;
+}

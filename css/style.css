@@ -31,10 +31,23 @@ h1 {
 }
 /* /title */
 
-/* main (to-do list content) */
+/* main */
 main {
-    background-color: #ffffff;
     margin: 5% 15% 1%;
     padding: 5% 10%;
 }
-/* /main (to-do list content) */
+/* /main */
+
+/* buttons */
+.buttons {
+    background-color: #ffffff;
+    border-radius: 1px;
+    margin-bottom: 1%;
+}
+/* /buttons */
+
+/* to-do list */
+.to-do-list {
+    background-color: #ffffff;
+}
+/* /to-do list */

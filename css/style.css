@@ -6,6 +6,19 @@
 }
 /* /CSS reset */
 
+/* body rule for page size */
+body {
+    margin: 2% 10%;
+    background-color: black;
+}
+/* /body rule for page size */
+
+/* page wrap */
+#page-wrap {
+    background-color: white;
+}
+/* /page wrap */
+
 h1 {
     display: inline;
 }

@@ -73,3 +73,18 @@ main {
     font-size: 25px;
 }
 /* /down-arrow */
+
+/* label class */
+.label {
+    color: white;
+    border-radius: 25%;
+    padding: 3px 7px;
+    font-size: 10px;
+}
+/* /label class */
+
+/* editorial class */
+.editorial {
+    background-color: #45abea;
+}
+/* /editorial class */

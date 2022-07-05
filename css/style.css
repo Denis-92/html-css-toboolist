@@ -69,7 +69,7 @@ main {
 /* to-do list */
 .to-do-list {
     background-color: #ffffff;
-    padding: 30px 0 40px 20px;
+    padding: 20px 0 10px 20px;
 }
 /* /to-do list */
 
@@ -173,3 +173,10 @@ main {
     padding: 10px
 }
 /* /chapter: shared rules for all sections */
+
+/* elements: shared rules for all to-do entries */
+.elements {
+    font-size: 18px;
+    padding: 4px;
+}
+/* /elements: shared rules for all to-do entries */

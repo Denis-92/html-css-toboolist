@@ -34,6 +34,7 @@ h1 {
 /* main */
 main {
     margin: 5% 15% 0;
+    border-bottom: 10px solid #f6f8f9;
 }
 /* /main */
 
@@ -41,8 +42,8 @@ main {
 .buttons-div {
     background-color: #ffffff;
     border-radius: 1px;
-    margin-bottom: 1%;
     padding: 10px 0 5px 20px;
+    border-bottom: 2px solid #f6f8f9;
 }
 /* /buttons */
 
@@ -124,9 +125,22 @@ main {
 .task {
     background-color: #47adf1;
     color: white;
+    border: 1px solid #47adf1;
+}
+/* /task button */
+
+/* section button */
+.section {
+    background-color: #ffffff;
+    color: #cacfd4;
+    border: 1px solid #c7cdd2;
+}
+/* /section button */
+
+/* buttons shared rules */
+.button {
     border-radius: 5px;
-    border: 0;
     font-size: 12px;
     padding: 5px 10px;
 }
-/* /task button */
+/* /buttons shared rules */
